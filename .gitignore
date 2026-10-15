@@ -1,0 +1,15 @@
+# 게임/
+game/
+# 엔진 릴리즈 (링크로 안내, 재배포 안 함)
+rgss-switch-0.1.0/
+# 산출물
+out/
+*.jpg
+*.nro
+# 파생 에셋 금지 (실수 방지용 하드 필터)
+*.png
+*.rxdata
+*.mkxp.json
+# 파이썬
+__pycache__/
+venv/
